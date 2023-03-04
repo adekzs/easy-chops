@@ -68,6 +68,9 @@
 							<groupId>org.projectlombok</groupId>
 							<artifactId>lombok</artifactId>
 						</exclude>
+						<image>
+							<name>adekzs/${project.artifactId}</name>
+						</image>
 					</excludes>
 				</configuration>
 			</plugin>
